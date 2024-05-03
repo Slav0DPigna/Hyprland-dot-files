@@ -43,7 +43,7 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 
 ### Keyboard Layout
 
-- **Super + Space**: Toggle between English and Italian keyboard layout
+- **Super + Space**: Toggle between English and Italian keyboard layout using change_layout.sh if you want other layout you can add simply by editing this file.
 
 ### Workspace Management
 
@@ -71,6 +71,3 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 - **Super + F6**: Decrease brightness
 - **Super + F7**: Increase brightness
 
----
-
-Feel free to modify and expand upon this README as needed. If you have any questions or need further assistance, please don't hesitate to ask.
