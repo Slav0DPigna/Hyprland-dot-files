@@ -19,7 +19,7 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 - [Slurp](https://github.com/emersion/slurp)
 - [Brightnessctl](https://github.com/Hummer12007/brightnessctl)
 - [Amixer](https://linux.die.net/man/1/amixer)
-- [Change Layout Script](https://github.com/hyprspace/hyprland/blob/main/change_layout.sh)
+- [Change Layout Script](https://github.com/Slav0DPigna/Hyprland-dot-files/blob/5d605b0e052eb0d5d9c6ec343ef306c654b66544/hypr/change_layout.sh)
 
 ## Configuration
 
