@@ -71,3 +71,6 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 - **Super + F6**: Decrease brightness
 - **Super + F7**: Increase brightness
 
+### Waybar configuration
+
+The last things I feel like saying about these configuration files are how the bluetooth icon works: middle click of the mouse turns it off and right click turns it back on, beyond this everything works as you imagine. I recommend that you copy the files into the .conf directory of your home. If there are any critical issues, don't hesitate to let me know. I will try to resolve them as soon as possible.
