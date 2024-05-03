@@ -1,6 +1,6 @@
 ## Screenshots
 
-![Desktop Screenshot]()
+![Desktop Screenshot](https://github.com/Slav0DPigna/Hyprland-dot-files/blob/72fe592c1f29ef57b651e2a248e3f9dda1cf5fd7/screenshot_03052024_181638.png)
 
 # Hyprland Configuration
 
