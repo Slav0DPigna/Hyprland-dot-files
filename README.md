@@ -81,4 +81,4 @@ The last things I feel like saying about these configuration files are how the b
 
 ### Sleep configuration
 
-Automatic suspension is managed by swaylock and swayidle, the routine in use blocks the screen after 5 minutes and sends the system to sleep after 10, to change the time intervals edit the sleep.sh file which is in the /hypr/scripts folder.
+Automatic suspension is managed by swaylock and swayidle, the routine in use blocks the screen after 5 minutes and sends the system to suspension after 10, to change the time intervals edit the sleep.sh file which is in the /hypr/scripts folder.
