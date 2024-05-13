@@ -78,3 +78,7 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 ### Waybar configuration
 
 The last things I feel like saying about these configuration files are how the bluetooth icon works: middle click of the mouse turns it off and right click turns it back on, beyond this everything works as you imagine. I recommend that you copy the files into the .conf directory of your home. If there are any critical issues, don't hesitate to let me know. I will try to resolve them as soon as possible.
+
+### Sleep configuration
+
+Automatic suspension is managed by swaylock and swayidle, the routine in use blocks the screen after 5 minutes and sends the system to sleep after 10, to change the time intervals edit the sleep.sh file which is in the /hypr/scripts folder.
