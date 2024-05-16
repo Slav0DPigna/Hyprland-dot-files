@@ -13,6 +13,7 @@ This repository contains the configuration files for customizing Hyprland, a Lin
 - [Nemo File Manager](https://github.com/linuxmint/nemo)
 - [Wofi](https://hg.sr.ht/~scoopta/wofi)
 - [Waybar](https://github.com/Alexays/Waybar)
+- [otf-font-awesome](https://github.com/h5p/font-awesome/tree/master)
 - [Hyprpaper](https://github.com/hyprspace/hyprpaper)
 - [NetworkManager Applet](https://gitlab.freedesktop.org/NetworkManager/NetworkManager-applet)
 - [Wayland Logout](https://gitlab.freedesktop.org/martinpitt/wayland-session)
